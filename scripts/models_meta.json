@@ -1,0 +1,1 @@
+{"models": [{"name": "decision_tree", "train_time": 179.043, "accuracy": 0.93345, "r2_accuracy": 0.7334370604566119, "confusion_matrix": [[19038, 962], [1700, 18300]]}, {"name": "random_forest", "train_time": 2913.603, "accuracy": 0.9749, "r2_accuracy": 0.8995895562321561, "confusion_matrix": [[19600, 400], [604, 19396]]}]}
